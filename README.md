@@ -1,3 +1,3 @@
-# Responsive-admin-Dashboard
+# AJ Admin-Dashboard
 
-A responsive admin dashboard build for an ecommerce store.
+A responsive admin dashboard build for AJ Fashion Shop.
